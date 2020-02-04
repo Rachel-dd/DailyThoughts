@@ -1,0 +1,2 @@
+# DailyThoughts
+To record everything
